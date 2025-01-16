@@ -29,3 +29,5 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
 
 ![kvenky33's Stats](https://github-readme-stats.vercel.app/api?username=kvenky33&theme=default&show_icons=true&hide_border=true&count_private=true)
+![kvenky33's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvenky33&theme=default&show_icons=true&hide_border=true&layout=compact)
+![kvenky33's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kvenky33&theme=default&show_icons=true&hide_border=true&layout=compact)
