@@ -27,6 +27,8 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kvenky33&show_icons=true&locale=en" alt="kvenky33" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kvenky33&show_icons=true&locale=en&layout=compact" alt="kvenky33" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kvenky33&show_icons=true&locale=en" alt="kvenky33" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kvenky33&" alt="kvenky33" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvenky33&show_icons=true&locale=en&layout=compact" alt="kvenky33" /></p>
